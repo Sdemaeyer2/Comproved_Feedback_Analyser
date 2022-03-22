@@ -1,0 +1,14 @@
+name: Comproved_Feedback_Analyser
+title: Comproved_Feedback_Analyser
+username:
+account: sdemaeyeruantwerp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4274991
+bundleId: 4751543
+url: https://sdemaeyeruantwerp.shinyapps.io/Comproved_Feedback_Analyser/
+when: 1624540486.96001
+lastSyncTime: 1624540486.96002
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 6.-SEA-(les7-week-4)-comparisons.xlsx|6.-SEA-(les7-week-4)-feedback.xlsx
